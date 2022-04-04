@@ -1,19 +1,3 @@
-	document.onkeydown=function(){
-	    
-		var e = window.event||arguments[0];
-		
-	      
-			if(e.keyCode==123){
-				alert('不中嘞 哥');
-				return false;
-			}
-        	}
-   
-function _endebug(off) {
-  if (!off) {
-    return
-  }
-
   /**
    * @description: 调试 - 反应
    * @param {*}
