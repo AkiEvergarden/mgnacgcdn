@@ -61,5 +61,3 @@
     _initMonitor();
   }, 10);
 }
-
-_endebug(true);
